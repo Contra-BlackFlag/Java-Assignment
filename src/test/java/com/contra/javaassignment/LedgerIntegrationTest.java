@@ -1,6 +1,6 @@
 package com.contra.javaassignment;
 
-import com.contra.javaassignment.model.Wallet;
+import com.contra.javaassignment.entity.Wallet;
 import com.contra.javaassignment.repository.WalletRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

@@ -1,4 +1,4 @@
-package com.contra.javaassignment.model;
+package com.contra.javaassignment.entity;
 
 
 import jakarta.persistence.Column;
